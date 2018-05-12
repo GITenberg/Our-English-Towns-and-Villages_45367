@@ -1,0 +1,28 @@
+_repo: Our-English-Towns-and-Villages_45367
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45367-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hall, H. R. Wilton
+    gutenberg_agent_id: '42967'
+    url: http://www.gutenberg.org/2009/agents/42967
+description: ''
+gutenberg_issued: '2014-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45367'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HT'
+- !lcsh 'Great Britain -- Social conditions'
+- !lcsh 'Great Britain -- History, Local'
+- !lcsh 'Cities and towns -- Great Britain'
+- !lcc 'DA'
+- !lcsh 'Villages -- Great Britain'
+title: Our English Towns and Villages
+url: http://www.gutenberg.org/ebooks/45367
